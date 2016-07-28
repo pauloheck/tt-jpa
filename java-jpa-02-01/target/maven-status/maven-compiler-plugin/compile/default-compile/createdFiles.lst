@@ -1,0 +1,5 @@
+br\com\tt\jpa\model\Sexo.class
+br\com\tt\jpa\model\Cliente.class
+br\com\tt\jpa\controller\Main.class
+br\com\tt\jpa\dao\IDao.class
+br\com\tt\jpa\dao\ClienteDao.class
